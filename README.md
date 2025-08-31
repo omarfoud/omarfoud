@@ -74,9 +74,10 @@ class OmarFouda:
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarfoud&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfoud&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarfoud&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfoud&theme=tokyonight" width="48%" />
 </div>
+
 
 
 ✅ Deep Learning & Neural Networks (TensorFlow, PyTorch)

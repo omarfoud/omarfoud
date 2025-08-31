@@ -65,11 +65,19 @@ class OmarFouda:
 
 🌍 Passionate about building solutions that connect ML with real-world apps
 
-🧰 Tech Toolbox
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,flutter,dart,html,css,js,django,tensorflow,pytorch,mysql,mongodb,git,github,vscode" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omarfoud&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfoud&theme=tokyonight&hide_border=true&border_radius=10" width="48%" /> </p>
-🎯 Current Focus
+## 🧰 Tech Toolbox
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,flutter,dart,html,css,js,django,tensorflow,pytorch,mysql,mongodb,git,github,vscode" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarfoud&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfoud&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</div>
+
 
 ✅ Deep Learning & Neural Networks (TensorFlow, PyTorch)
 

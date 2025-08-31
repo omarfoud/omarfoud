@@ -53,6 +53,7 @@ class OmarFouda:
             "Git/GitHub (Proficient)"
         ]
     }
+```
 🔥 Highlights
 
 🎓 CS Student @ Menoufia University (IS Dept.) – Expected 2026
@@ -65,20 +66,11 @@ class OmarFouda:
 
 🌍 Passionate about building solutions that connect ML with real-world apps
 
-## 🧰 Tech Toolbox
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,flutter,dart,html,css,js,django,tensorflow,pytorch,mysql,mongodb,git,github,vscode" />
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarfoud&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfoud&theme=tokyonight" width="48%" />
-</div>
-
-
+🧰 Tech Toolbox
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,flutter,dart,html,css,js,django,tensorflow,pytorch,mysql,mongodb,git,github,vscode" /> </div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omarfoud&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfoud&theme=tokyonight" width="48%" /> </div>
+🎯 Current Focus
 
 ✅ Deep Learning & Neural Networks (TensorFlow, PyTorch)
 
